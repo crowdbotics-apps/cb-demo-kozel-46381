@@ -1,4 +1,4 @@
-package com.cb_demo_kozel_46381;
+package com.demo;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "cb_demo_kozel_46381";
+    return "demo";
   }
 
   /**

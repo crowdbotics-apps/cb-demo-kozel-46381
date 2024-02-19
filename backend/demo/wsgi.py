@@ -1,5 +1,5 @@
 """
-WSGI config for cb_demo_kozel_46381 project.
+WSGI config for demo project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -12,7 +12,7 @@ import os
 from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault(
-    "DJANGO_SETTINGS_MODULE", "cb_demo_kozel_46381.settings"
+    "DJANGO_SETTINGS_MODULE", "demo.settings"
 )
 
 application = get_wsgi_application()

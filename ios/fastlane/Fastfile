@@ -11,8 +11,8 @@
 #
 # Opt out of sending fastlane usage metrics
 
-@app_name = 'cb-demo-kozel-46381-id'
-@base_name = 'cb_demo_kozel_46381'
+@app_name = 'demo-id'
+@base_name = 'demo'
 @filename = "#{@base_name}.xcodeproj"
 @workspace_name = "#{@base_name}.xcworkspace"
 @identifier = "com.crowdbotics.#{@app_name}"

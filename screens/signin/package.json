@@ -1,0 +1,8 @@
+{
+    "name": "@modules/signin",
+    "version": "1.0.0",
+    "description": "A simple module to signin",
+    "private": true,
+    "main": "index.js",
+    "license": "ISC"
+  }

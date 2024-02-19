@@ -1,4 +1,4 @@
-"""cb_demo_kozel_46381 URL Configuration
+"""demo URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.2/topics/http/urls/
@@ -34,9 +34,9 @@ urlpatterns = [
     path("rest-auth/registration/", include("dj_rest_auth.registration.urls")),
 ]
 
-admin.site.site_header = "cb-demo-kozel"
-admin.site.site_title = "cb-demo-kozel Admin Portal"
-admin.site.index_title = "cb-demo-kozel Admin"
+admin.site.site_header = "demo"
+admin.site.site_title = "demo Admin Portal"
+admin.site.index_title = "demo Admin"
 
 # swagger
 urlpatterns += [

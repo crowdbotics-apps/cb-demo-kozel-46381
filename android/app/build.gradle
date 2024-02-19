@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.cb_demo_kozel_46381"
+    namespace "com.demo"
     defaultConfig {
-        applicationId "com.cb_demo_kozel_46381"
+        applicationId "com.demo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

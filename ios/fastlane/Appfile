@@ -1,4 +1,4 @@
-app_identifier("com.crowdbotics.cb-demo-kozel-46381-id") # The bundle identifier of your app
+app_identifier("com.crowdbotics.demo-id") # The bundle identifier of your app
 apple_id("") # Your Apple email address
 
 itc_team_id("") # App Store Connect Team ID

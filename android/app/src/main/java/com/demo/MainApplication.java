@@ -1,4 +1,4 @@
-package com.cb_demo_kozel_46381;
+package com.demo;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
